@@ -1,0 +1,7 @@
+[package]
+name = "redis_serde_json"
+version = "0.1.0"
+authors = ["Naitik Shah <n@daaku.org>"]
+edition = "2018"
+
+[dependencies]
