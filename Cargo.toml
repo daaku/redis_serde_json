@@ -1,5 +1,7 @@
 [package]
 name = "redis_serde_json"
+description = "A derive to store and retrieve JSON values in redis encoded using serde."
+license = "MIT"
 version = "0.1.0"
 authors = ["Naitik Shah <n@daaku.org>"]
 edition = "2018"
