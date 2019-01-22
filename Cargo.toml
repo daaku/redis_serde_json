@@ -4,4 +4,9 @@ version = "0.1.0"
 authors = ["Naitik Shah <n@daaku.org>"]
 edition = "2018"
 
+[lib]
+proc-macro = true
+
 [dependencies]
+syn = "0.15"
+quote = "0.6"
